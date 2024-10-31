@@ -1,1 +1,0 @@
-gson.fromJson(json, Data.class);  //only the value in json to Data.class
